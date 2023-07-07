@@ -1,2 +1,1 @@
-My second readme
-This line was updated from git hub
+How to be up to date in git
